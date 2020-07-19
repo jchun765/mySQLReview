@@ -34,14 +34,14 @@ This repo is recommended to be used with `MySQL 5.7`.
 * Test for working functionality via [Postman](https://www.postman.com/)
 
 
-[Express](https://expressjs.com/)
-*Express is a routing and middleware web framework that has minimal functionality of its own: An Express application is essentially a series of middleware function calls.
+*[Express](https://expressjs.com/)
+>Express is a routing and middleware web framework that has minimal functionality of its own: An Express application is essentially a series of middleware function calls.
 
 MIDDLEWARE UTILIZED:
-[cors](https://www.npmjs.com/package/cors)
-[morgan](https://www.npmjs.com/package/morgan)
-[bodyParser](https://www.npmjs.com/package/body-parser)
+*[cors](https://www.npmjs.com/package/cors)
+*[morgan](https://www.npmjs.com/package/morgan)
+*[bodyParser](https://www.npmjs.com/package/body-parser)
 
 HELPFUL DOCS
-[mySQL](https://www.npmjs.com/package/mysql)
-[Queries](http://www.cheat-sheets.org/sites/sql.su/#data_manipulation)
+*[mySQL](https://www.npmjs.com/package/mysql)
+*[Queries](http://www.cheat-sheets.org/sites/sql.su/#data_manipulation)
