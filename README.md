@@ -49,5 +49,3 @@ This repo is recommended to be used with `MySQL 5.7`.
 ## HELPFUL DOCS
 * [mySQL](https://www.npmjs.com/package/mysql)
 * [Queries](http://www.cheat-sheets.org/sites/sql.su/#data_manipulation)
-# mySQLreview
-# mySQLReview
