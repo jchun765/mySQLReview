@@ -45,9 +45,3 @@ MIDDLEWARE UTILIZED:
 HELPFUL DOCS
 [mySQL](https://www.npmjs.com/package/mysql)
 [Queries](http://www.cheat-sheets.org/sites/sql.su/#data_manipulation)
-
-
-
-
-# mySQLreview
-# mySQLreview
