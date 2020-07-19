@@ -5,6 +5,7 @@
 ```
 npm install
 npm run start
+npm run server
 ```
 
 This repo is recommended to be used with `MySQL 5.7`.
