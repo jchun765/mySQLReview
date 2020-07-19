@@ -34,9 +34,6 @@ This repo is recommended to be used with `MySQL 5.7`.
 ## Step 5
 * Test for working functionality via [Postman](https://www.postman.com/)
 
-
-<img style="border-radius: 10px" src="./Overview.png">
-
 <br><br/>
 [Express](https://expressjs.com/)
 >Express is a routing and middleware web framework that has minimal functionality of its own: An Express application is essentially a series of middleware function calls.
