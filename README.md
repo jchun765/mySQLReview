@@ -1,6 +1,8 @@
 # MySQL Review
 > A quick review of connecting a MySQL database to our Express server
 
+* [Video Code Along] (https://www.youtube.com/watch?v=FRjDCTOtwjI)
+
 ### Usage
 ```
 npm install
