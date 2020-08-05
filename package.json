@@ -8,7 +8,9 @@
     "start": "nodemon ./database/index",
     "server": "nodemon ./server/index.js"
   },
-  "keywords": ["mySQL"],
+  "keywords": [
+    "mySQL"
+  ],
   "author": "Jordan Chun",
   "license": "ISC",
   "devDependencies": {
